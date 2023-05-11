@@ -132,8 +132,8 @@ dmypy.json
 .idea
 
 # Images folder
-.images/
-images/
-images
+# .images/
+# images/
+# images
 
 .vscode/
